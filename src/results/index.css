@@ -1,0 +1,30 @@
+.results-container {
+  display: flex;
+  align-self: center;
+}
+
+.results-list {
+  list-style: none;
+}
+
+.filter {
+  background: white;
+  text-align: left;
+  background-color: #fff;
+  color: #17317f;
+  cursor: pointer;
+  font-size: 1rem;
+  min-height: 50px;
+  min-width: 220px;
+  margin: 2px 2px;
+  padding: 8px 12px;
+  text-decoration: none;
+  border: none;
+}
+
+.filter:hover,
+.selected {
+  background-color: #17317f;
+  color: #fff;
+  fill: #17317f;
+}
