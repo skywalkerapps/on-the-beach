@@ -1,3 +1,9 @@
+# On the beach - Luke Walker
+
+Create using the cra, should have reached all the requirmenets of the readme.
+
+Filters working as planned, with overview drop down for extra information about the hotels.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
