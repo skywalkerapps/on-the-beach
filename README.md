@@ -1,8 +1,15 @@
 # On the beach - Luke Walker
 
-Create using the cra, should have reached all the requirmenets of the readme.
+Create using the cra, should have reached all the requirments of the readme provided.
 
 Filters working as planned, with overview drop down for extra information about the hotels.
+
+Hosted on vercel for quick access: https://on-the-beach.vercel.app/
+
+Extra work if I had more time:
+Split out the hotel card a bit more
+Create a singular button to be used throughout
+Use typescript
 
 # Getting Started with Create React App
 
